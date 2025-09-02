@@ -16,7 +16,7 @@ It monitors **temperature, humidity, CO₂ levels, and light intensity**, and au
 - Real-time alerts for unsafe conditions  
 
 ---
-
+---
 ## 🛠 Hardware
 - **ESP32** (MicroPython)  
 - **DHT22** (Temp & Humidity)  
