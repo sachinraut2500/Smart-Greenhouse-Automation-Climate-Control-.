@@ -15,7 +15,7 @@ It monitors **temperature, humidity, CO₂ levels, and light intensity**, and au
 - CSV data logging on Raspberry Pi  
 - Real-time alerts for unsafe conditions  
 
----
+----------
 ---
 ## 🛠 Hardware
 - **ESP32** (MicroPython)  
