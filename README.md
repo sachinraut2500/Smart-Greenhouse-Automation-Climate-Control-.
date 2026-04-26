@@ -3,7 +3,7 @@
 ## 📖 Overview
 This project creates a **fully automated greenhouse** using IoT sensors & actuators.  
 It monitors **temperature, humidity, CO₂ levels, and light intensity**, and automatically controls **fans, heaters, and grow lights**.
-------------------
+--------------------
 -----------------------------------
 
 ## ⚙️ Features
