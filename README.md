@@ -25,7 +25,7 @@ It monitors **temperature, humidity, CO₂ levels, and light intensity**, and au
 - **Relay module** + Fan, Heater, LED Grow Light  
 - **Raspberry Pi**  
 
----
+------
 
 ## 🧑‍💻 Software
 - MicroPython on ESP32  
